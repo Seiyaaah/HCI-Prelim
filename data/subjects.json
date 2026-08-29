@@ -1,0 +1,12 @@
+[
+{
+"id": "hci1",
+"title": "Introduction to Human-Computer Interaction",
+"description": "Covers the definition, multidisciplinary components, importance, and core principles of Human-Computer Interaction (HCI)."
+},
+{
+"id": "hci2",
+"title": "Guidelines Categories and Example Guidelines",
+"description": "Explores specific HCI guidelines, categories, design principles, and general rules for user interfaces."
+}
+]
