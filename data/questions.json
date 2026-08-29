@@ -4,7 +4,7 @@
       "type": "multiple-choice",
       "question": "What is the primary definition of Human-Computer Interaction (HCI) according to the source text?",
       "options": [
-        "The study and design of the interaction between people (users) and computers[cite: 4]",
+        "The study and design of the interaction between people (users) and computers",
         "The process of programming operating systems and hardware components",
         "The analysis of business management software and computer networks",
         "The technical engineering of computer microprocessors and circuit boards"
@@ -16,7 +16,7 @@
       "question": "Which of the following best describes the core focus of HCI?",
       "options": [
         "Writing secure backend database code",
-        "Creating user-friendly interfaces and experiences[cite: 4]",
+        "Creating user-friendly interfaces and experiences",
         "Maximizing computer processing speeds and memory allocation",
         "Minimizing hardware manufacturing costs"
       ],
@@ -26,7 +26,7 @@
       "type": "multiple-choice",
       "question": "What is the overarching goal of designing systems in HCI?",
       "options": [
-        "To allow people to interact with technology easily, efficiently, and safely[cite: 1]",
+        "To allow people to interact with technology easily, efficiently, and safely",
         "To replace traditional human workflows completely with automation",
         "To ensure users require extensive technical training before use",
         "To make software applications run on minimal hardware specifications"
@@ -38,7 +38,7 @@
       "question": "How many key multidisciplinary fields are involved in HCI, according to the source material?",
       "options": [
         "Three",
-        "Four[cite: 1]",
+        "Four",
         "Five",
         "Six"
       ],
@@ -48,10 +48,10 @@
       "type": "multiple-choice",
       "question": "Which multidisciplinary field focuses specifically on creating efficient systems and interfaces?",
       "options": [
-        "Psychology[cite: 1]",
-        "Design[cite: 1]",
-        "Engineering[cite: 1]",
-        "Ergonomics[cite: 1]"
+        "Psychology",
+        "Design",
+        "Engineering",
+        "Ergonomics"
       ],
       "answer": 2
     },
@@ -59,10 +59,10 @@
       "type": "multiple-choice",
       "question": "In the context of HCI's multidisciplinary fields, what is the role of psychology?",
       "options": [
-        "Fitting the system to the human body and needs[cite: 1]",
-        "Understanding user behavior and cognition[cite: 1]",
-        "Making systems attractive and usable[cite: 1]",
-        "Creating efficient systems and interfaces[cite: 1]"
+        "Fitting the system to the human body and needs",
+        "Understanding user behavior and cognition",
+        "Making systems attractive and usable",
+        "Creating efficient systems and interfaces"
       ],
       "answer": 1
     },
@@ -70,10 +70,10 @@
       "type": "multiple-choice",
       "question": "Which field is responsible for making systems attractive and usable?",
       "options": [
-        "Engineering[cite: 1]",
-        "Ergonomics[cite: 1]",
-        "Psychology[cite: 1]",
-        "Design[cite: 1]"
+        "Engineering",
+        "Ergonomics",
+        "Psychology",
+        "Design"
       ],
       "answer": 3
     },
@@ -81,10 +81,10 @@
       "type": "multiple-choice",
       "question": "What does ergonomics focus on within HCI?",
       "options": [
-        "Fitting the system to the human body and needs[cite: 1]",
-        "Understanding user behavior and memory limits[cite: 1]",
-        "Developing structured software engineering pipelines[cite: 1]",
-        "Making visual layouts aesthetically pleasing[cite: 1]"
+        "Fitting the system to the human body and needs",
+        "Understanding user behavior and memory limits",
+        "Developing structured software engineering pipelines",
+        "Making visual layouts aesthetically pleasing"
       ],
       "answer": 0
     },
@@ -93,7 +93,7 @@
       "question": "According to the text, why is HCI important?",
       "options": [
         "It is about doing things faster regardless of safety.",
-        "It is about doing things better[cite: 4].",
+        "It is about doing things better.",
         "It is about reducing the cost of computer hardware.",
         "It is about eliminating the need for user testing."
       ],
@@ -103,7 +103,7 @@
       "type": "multiple-choice",
       "question": "Which of the following attributes define 'Usability' in HCI?",
       "options": [
-        "Easy to use, efficient for the task, ensures safety, and ensures correct completion of the task[cite: 4]",
+        "Easy to use, efficient for the task, ensures safety, and ensures correct completion of the task",
         "Visually striking, highly complex, secure, and multi-platform compatible",
         "Fast loading, lightweight, automated, and error-free",
         "Inexpensive, widely distributed, accessible, and customizable"
@@ -116,7 +116,7 @@
       "options": [
         "Five",
         "Six",
-        "Seven[cite: 4]",
+        "Seven",
         "Eight"
       ],
       "answer": 2
@@ -125,10 +125,10 @@
       "type": "multiple-choice",
       "question": "What is the name of Principle 1 in the HCI principles list?",
       "options": [
-        "Understand the Task[cite: 4]",
-        "Know Thy User[cite: 4]",
-        "Strive for Consistency[cite: 4]",
-        "Naturalness[cite: 4]"
+        "Understand the Task",
+        "Know Thy User",
+        "Strive for Consistency",
+        "Naturalness"
       ],
       "answer": 1
     },
@@ -136,7 +136,7 @@
       "type": "multiple-choice",
       "question": "Which factors must be considered under the principle 'Know Thy User'?",
       "options": [
-        "Age, Gender, Education Level, Social Status, and Background in Technology[cite: 4]",
+        "Age, Gender, Education Level, Social Status, and Background in Technology",
         "Income Level, Geographic Location, Employment Type, and Marital Status",
         "Psychological profile, physical height, dominant hand, and visual acuity",
         "Programming experience, hardware ownership, internet speed, and language preference"
@@ -147,7 +147,7 @@
       "type": "multiple-choice",
       "question": "What does Principle 2, 'Understand the Task', require of a design?",
       "options": [
-        "Design should match the steps and logic of the task the user wants to perform[cite: 4].",
+        "Design should match the steps and logic of the task the user wants to perform.",
         "Design should simplify complex tasks by removing necessary steps.",
         "Design should force users to learn new workflows to improve efficiency.",
         "Design should automate all user actions without human intervention."
@@ -159,7 +159,7 @@
       "question": "What is the core directive of Principle 3, 'Reduce Memory Load'?",
       "options": [
         "Users should memorize all shortcut keys before starting a task.",
-        "Users should not be required to memorize (or recall out of their heads) a great deal of information to carry out tasks[cite: 4].",
+        "Users should not be required to memorize (or recall out of their heads) a great deal of information to carry out tasks.",
         "Interfaces should store user passwords in plain text for easy retrieval.",
         "Applications should clear cache memory frequently to save space."
       ],
@@ -169,7 +169,7 @@
       "type": "multiple-choice",
       "question": "What problem does Principle 4, 'Strive for Consistency', aim to prevent?",
       "options": [
-        "Users wondering whether different words, situations, or actions mean the same thing[cite: 4]",
+        "Users wondering whether different words, situations, or actions mean the same thing",
         "Applications crashing due to insufficient system memory",
         "Users making physical ergonomic errors while typing",
         "Interfaces looking visually dull and unappealing"
@@ -181,7 +181,7 @@
       "question": "Under 'Strive for Consistency', how should elements be handled across an application?",
       "options": [
         "Elements should vary dynamically depending on the user's age.",
-        "Elements should be used consistently across your application[cite: 4].",
+        "Elements should be used consistently across your application.",
         "Elements should change based on the specific device being used.",
         "Elements should be redesigned periodically to prevent user boredom."
       ],
@@ -192,7 +192,7 @@
       "question": "According to the text, why is Principle 5, 'Remind Users and Refresh Their Memory', necessary?",
       "options": [
         "Because computers have limited storage capacity for user files.",
-        "Because any significant task will involve the use of memory[cite: 4].",
+        "Because any significant task will involve the use of memory.",
         "Because users tend to forget their login credentials frequently.",
         "Because system updates erase user preferences automatically."
       ],
@@ -202,7 +202,7 @@
       "type": "multiple-choice",
       "question": "How should interfaces fulfill Principle 5 ('Remind Users and Refresh Their Memory')?",
       "options": [
-        "By employing interfaces that give continuous reminders of important information[cite: 4]",
+        "By employing interfaces that give continuous reminders of important information",
         "By forcing users to re-enter their data periodically",
         "By locking the screen after a short period of inactivity",
         "By hiding critical information until a specific error occurs"
@@ -215,7 +215,7 @@
       "options": [
         "Users love errors because they provide learning opportunities.",
         "Users are indifferent to errors as long as they are fixable.",
-        "Users hate errors, and even more so hate the feeling that they themselves have done something wrong[cite: 4].",
+        "Users hate errors, and even more so hate the feeling that they themselves have done something wrong.",
         "Users expect errors in modern software and rarely notice them."
       ],
       "answer": 2
@@ -224,7 +224,7 @@
       "type": "multiple-choice",
       "question": "What is the primary action required under Principle 6 ('Prevent Errors/Reversal of Action')?",
       "options": [
-        "Eliminate error-prone conditions or check for them and notify users about that before they commit to the action[cite: 4].",
+        "Eliminate error-prone conditions or check for them and notify users about that before they commit to the action.",
         "Punish users with lockouts when they make repetitive mistakes.",
         "Allow errors to happen so the system can correct them automatically later.",
         "Hide error logs from users to prevent anxiety."
@@ -237,7 +237,7 @@
       "options": [
         "Error correction over error prevention",
         "Manual detection of errors by the user",
-        "Error prevention over error correction[cite: 4]",
+        "Error prevention over error correction",
         "Silent background deletion of incorrect data"
       ],
       "answer": 2
@@ -246,7 +246,7 @@
       "type": "multiple-choice",
       "question": "Along with error prevention, what technical feature is expected for error handling?",
       "options": [
-        "Automatic detection of errors[cite: 4]",
+        "Automatic detection of errors",
         "Immediate system shutdown upon error detection",
         "Mandatory customer support phone calls",
         "Randomized error code generation"
@@ -258,7 +258,7 @@
       "question": "When an error occurs, what should the interface provide according to the guidelines?",
       "options": [
         "Vague warning codes for security reasons",
-        "Clear error notifications and offering solutions for problems[cite: 4]",
+        "Clear error notifications and offering solutions for problems",
         "A complete reset of the user profile",
         "An immediate requirement to restart the device"
       ],
@@ -268,7 +268,7 @@
       "type": "multiple-choice",
       "question": "What is Principle 7 of HCI?",
       "options": [
-        "Naturalness[cite: 4]",
+        "Naturalness",
         "Simplicity",
         "Flexibility",
         "Modularity"
@@ -280,7 +280,7 @@
       "question": "What does Principle 7 ('Naturalness') encourage designers to favor?",
       "options": [
         "Strictly command-line interfaces for maximum efficiency",
-        "“Natural” interaction and interfaces[cite: 4]",
+        "“Natural” interaction and interfaces",
         "Complex menu hierarchies that test cognitive limits",
         "Exclusively physical button controls over digital screens"
       ],
@@ -290,7 +290,7 @@
       "type": "multiple-choice",
       "question": "What does Naturalness follow from, according to the text?",
       "options": [
-        "The free choice of modalities[cite: 4]",
+        "The free choice of modalities",
         "Rigid adherence to hardware specifications",
         "The elimination of visual graphics",
         "Automated artificial intelligence scripts"
@@ -302,7 +302,7 @@
       "question": "What kind of interaction may result from applying the principle of Naturalness?",
       "options": [
         "An interaction that mimics machine-to-machine communication protocols",
-        "An interaction that is close to human-human communication[cite: 4]",
+        "An interaction that is close to human-human communication",
         "An interaction that requires specialized programming knowledge",
         "An interaction that completely avoids text-based inputs"
       ],
@@ -312,7 +312,7 @@
       "type": "multiple-choice",
       "question": "According to the conclusion, what role does HCI play in technology?",
       "options": [
-        "It plays a vital role in making technology easier, more effective, and more enjoyable to use[cite: 4].",
+        "It plays a vital role in making technology easier, more effective, and more enjoyable to use.",
         "It plays a secondary role compared to backend database optimization.",
         "It focuses primarily on reducing software licensing costs.",
         "It ensures that computer hardware runs at peak thermal efficiency."
@@ -324,7 +324,7 @@
       "question": "What do the principles of HCI guide designers in doing?",
       "options": [
         "Writing bug-free assembly code",
-        "Designing interfaces that are not only visually appealing but also user-centered and efficient[cite: 4]",
+        "Designing interfaces that are not only visually appealing but also user-centered and efficient",
         "Creating corporate technology business models",
         "Selecting computer processors and RAM configurations"
       ],
@@ -334,7 +334,7 @@
       "type": "multiple-choice",
       "question": "What must future designers and developers always prioritize in everything they create, as stated in the conclusion?",
       "options": [
-        "The user experience[cite: 4]",
+        "The user experience",
         "The corporate profit margin",
         "The latest programming framework",
         "The minimal server load"
@@ -345,10 +345,10 @@
       "type": "multiple-choice",
       "question": "If an interface requires a user to recall a massive amount of data from memory to proceed, which HCI principle is being violated?",
       "options": [
-        "Strive for Consistency[cite: 4]",
-        "Reduce Memory Load[cite: 4]",
-        "Naturalness[cite: 4]",
-        "Understand the Task[cite: 4]"
+        "Strive for Consistency",
+        "Reduce Memory Load",
+        "Naturalness",
+        "Understand the Task"
       ],
       "answer": 1
     },
@@ -356,10 +356,10 @@
       "type": "multiple-choice",
       "question": "If an application uses different terminology for the exact same action on two separate screens, which principle is violated?",
       "options": [
-        "Know Thy User[cite: 4]",
-        "Prevent Errors/Reversal of Action[cite: 4]",
-        "Strive for Consistency[cite: 4]",
-        "Remind Users and Refresh Their Memory[cite: 4]"
+        "Know Thy User",
+        "Prevent Errors/Reversal of Action",
+        "Strive for Consistency",
+        "Remind Users and Refresh Their Memory"
       ],
       "answer": 2
     },
@@ -367,10 +367,10 @@
       "type": "multiple-choice",
       "question": "When designing an application that needs to fit the human body and physical needs, which multidisciplinary area is being applied?",
       "options": [
-        "Engineering[cite: 1]",
-        "Psychology[cite: 1]",
-        "Design[cite: 1]",
-        "Ergonomics[cite: 1]"
+        "Engineering",
+        "Psychology",
+        "Design",
+        "Ergonomics"
       ],
       "answer": 3
     },
@@ -378,9 +378,9 @@
       "type": "multiple-choice",
       "question": "When a designer analyzes user behavior and cognition, which multidisciplinary field are they utilizing?",
       "options": [
-        "Psychology[cite: 1]",
-        "Engineering[cite: 1]",
-        "Ergonomics[cite: 1]",
+        "Psychology",
+        "Engineering",
+        "Ergonomics",
         "Usability analysis"
       ],
       "answer": 0
@@ -389,10 +389,10 @@
       "type": "multiple-choice",
       "question": "Which factor under 'Know Thy User' relates specifically to a user's familiarity with technology?",
       "options": [
-        "Age[cite: 4]",
-        "Social Status[cite: 4]",
-        "Background in Technology[cite: 4]",
-        "Education Level[cite: 4]"
+        "Age",
+        "Social Status",
+        "Background in Technology",
+        "Education Level"
       ],
       "answer": 2
     },
@@ -400,7 +400,7 @@
       "type": "multiple-choice",
       "question": "What ensures that an interface is efficient for a task and ensures correct completion?",
       "options": [
-        "Usability[cite: 4]",
+        "Usability",
         "Multidisciplinary engineering",
         "Automated error correction",
         "Visual attractiveness alone"
@@ -411,10 +411,10 @@
       "type": "multiple-choice",
       "question": "Why should an interface provide continuous reminders of important information?",
       "options": [
-        "To satisfy Principle 5: Remind Users and Refresh Their Memory[cite: 4]",
-        "To comply with Principle 2: Understand the Task[cite: 4]",
-        "To enforce Principle 1: Know Thy User[cite: 4]",
-        "To achieve Principle 7: Naturalness[cite: 4]"
+        "To satisfy Principle 5: Remind Users and Refresh Their Memory",
+        "To comply with Principle 2: Understand the Task",
+        "To enforce Principle 1: Know Thy User",
+        "To achieve Principle 7: Naturalness"
       ],
       "answer": 0
     },
@@ -422,10 +422,10 @@
       "type": "multiple-choice",
       "question": "Which principle directly addresses a user's hatred of feeling that they made a mistake themselves?",
       "options": [
-        "Strive for Consistency[cite: 4]",
-        "Prevent Errors/Reversal of Action[cite: 4]",
-        "Reduce Memory Load[cite: 4]",
-        "Naturalness[cite: 4]"
+        "Strive for Consistency",
+        "Prevent Errors/Reversal of Action",
+        "Reduce Memory Load",
+        "Naturalness"
       ],
       "answer": 1
     },
@@ -433,7 +433,7 @@
       "type": "multiple-choice",
       "question": "In the study of HCI, what do people interacting with computers represent?",
       "options": [
-        "The users[cite: 4]",
+        "The users",
         "The system administrators",
         "The hardware technicians",
         "The code compilers"
@@ -444,10 +444,10 @@
       "type": "multiple-choice",
       "question": "Which multidisciplinary component focuses on creating systems that are attractive and usable?",
       "options": [
-        "Engineering[cite: 1]",
-        "Psychology[cite: 1]",
-        "Design[cite: 1]",
-        "Ergonomics[cite: 1]"
+        "Engineering",
+        "Psychology",
+        "Design",
+        "Ergonomics"
       ],
       "answer": 2
     },
@@ -455,7 +455,7 @@
       "type": "multiple-choice",
       "question": "What is the result when an interface is easy to use, efficient, ensures safety, and guarantees correct task completion?",
       "options": [
-        "High usability[cite: 4]",
+        "High usability",
         "Advanced technical coding",
         "Optimized hardware performance",
         "Automated error prevention"
@@ -466,10 +466,10 @@
       "type": "multiple-choice",
       "question": "Which of the following is NOT one of the factors to consider under 'Know Thy User'?",
       "options": [
-        "Age[cite: 4]",
-        "Gender[cite: 4]",
-        "Processor speed[cite: 4]",
-        "Social Status[cite: 4]"
+        "Age",
+        "Gender",
+        "Processor speed",
+        "Social Status"
       ],
       "answer": 2
     },
@@ -477,7 +477,7 @@
       "type": "multiple-choice",
       "question": "What should design match according to Principle 2 ('Understand the Task')?",
       "options": [
-        "The steps and logic of the task the user wants to perform[cite: 4]",
+        "The steps and logic of the task the user wants to perform",
         "The underlying database schema of the software",
         "The physical dimensions of the computer screen",
         "The aesthetic preferences of the software developer"
@@ -489,7 +489,7 @@
       "question": "What should be prioritized over error correction, according to the error prevention guidelines?",
       "options": [
         "Error notification clarity",
-        "Error prevention[cite: 4]",
+        "Error prevention",
         "Automatic error detection",
         "Problem solution offers"
       ],
@@ -499,10 +499,10 @@
       "type": "multiple-choice",
       "question": "If an interface gives clear error notifications and offers solutions for problems, which principle is being implemented?",
       "options": [
-        "Prevent Errors/Reversal of Action[cite: 4]",
-        "Strive for Consistency[cite: 4]",
-        "Remind Users and Refresh Their Memory[cite: 4]",
-        "Understand the Task[cite: 4]"
+        "Prevent Errors/Reversal of Action",
+        "Strive for Consistency",
+        "Remind Users and Refresh Their Memory",
+        "Understand the Task"
       ],
       "answer": 0
     },
@@ -510,7 +510,7 @@
       "type": "multiple-choice",
       "question": "Which of the following describes the interaction style sought by the 'Naturalness' principle?",
       "options": [
-        "Close to human-human communication[cite: 4]",
+        "Close to human-human communication",
         "Strictly programmatic and script-based",
         "Dependent on complex manuals and documentation",
         "Characterized by rigid mechanical prompts"
@@ -521,7 +521,7 @@
       "type": "multiple-choice",
       "question": "Which demographic and personal factors are listed together under Principle 1?",
       "options": [
-        "Age, Gender, Education Level, Social Status, and Background in Technology[cite: 4]",
+        "Age, Gender, Education Level, Social Status, and Background in Technology",
         "Profession, Income, Geographic Region, and Language",
         "Height, Weight, Age, and Technical Skill",
         "Education, Salary, Marital Status, and Device Type"
@@ -532,7 +532,7 @@
       "type": "multiple-choice",
       "question": "What is a core outcome of applying HCI principles to interface design, as stated in the text?",
       "options": [
-        "Interfaces that are visually appealing, user-centered, and efficient[cite: 4]",
+        "Interfaces that are visually appealing, user-centered, and efficient",
         "Software that requires minimal hardware resources to operate",
         "Applications that eliminate the need for human users entirely",
         "Systems that restrict access based on technical background"
