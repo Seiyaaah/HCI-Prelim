@@ -1,0 +1,241 @@
+{
+  "HCI2": {
+    "id": "HCI2",
+    "title": "Human-Computer Interaction (HCI)",
+    "summary": "Human-Computer Interaction (HCI) refers to the study and design of the interaction between people (users) and computers, focusing on creating user-friendly interfaces and experiences.",
+    "sections": [
+      {
+        "heading": "What is HCI?",
+        "paragraphs": [
+          "Human-Computer Interaction (HCI) refers to the study and design of the interaction between people (users) and computers. It focuses on creating user-friendly interfaces and experiences. It is a multidisciplinary field that involves:",
+          "HCI is about designing systems that allow people to interact with technology easily, efficiently, and safely."
+        ],
+        "list": [
+          "Engineering – creating efficient systems and interfaces.",
+          "Psychology – understanding user behavior and cognition.",
+          "Design – making systems attractive and usable.",
+          "Ergonomics – fitting the system to the human body and needs."
+        ]
+      },
+      {
+        "heading": "Why is it important?",
+        "paragraphs": [
+          "HCI is about doing things better."
+        ],
+        "list": [
+          "USABILITY (resulting interface are easy to use, efficient for the task, ensure safety and to correct completion of the task)."
+        ]
+      },
+      {
+        "heading": "Principles of HCI",
+        "paragraphs": [],
+        "list": [
+          "“Know Thy User”",
+          "Understand the Task",
+          "Reduce Memory Load",
+          "Strive for Consistency",
+          "Remind Users and Refresh Their Memory",
+          "Prevent Errors/Reversal of Action",
+          "Naturalness"
+        ]
+      },
+      {
+        "heading": "Detailed Breakdown of Principles",
+        "paragraphs": [
+          "1. “Know Thy User”",
+          "Factors to Consider:",
+          "2. “Understand the Task”",
+          "Design should match the steps and logic of the task the user wants to perform.",
+          "3. Reduce Memory Load",
+          "Users should not be required to memorize (or recall out of their heads) a great deal of information to carry out tasks.",
+          "4. Strive for Consistency",
+          "Users should not have to wonder whether different words, situations, or actions mean the same thing. Don’t confuse your user. In other words, use all elements across your application consistently.",
+          "5. Remind Users and Refresh Their Memory",
+          "Any significant task will involve the use of memory, so another good strategy is to employ interfaces that give continuous reminders of important information and thereby refresh the user’s memory.",
+          "6. Prevent Errors/Reversal of Action",
+          "Users hate errors, and even more so hate the feeling that they themselves have done something wrong. Either eliminate error-prone conditions or check for them and notify users about that before they commit to the action.",
+          "Error Prevention:",
+          "7. Naturalness",
+          "The final major HCI principle is to favor “natural” interaction and interfaces. It follows from the free choice of modalities and may result in a human-computer interaction that is close to human-human communication."
+        ],
+        "list": [
+          "Age",
+          "Gender",
+          "Education Level",
+          "Social Status",
+          "Background in Technology",
+          "Error prevention over error correction.",
+          "Automatic detection of errors.",
+          "Clear error notifications.",
+          "Offer solutions for problems."
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "paragraphs": [
+          "Human-Computer Interaction (HCI) plays a vital role in making technology easier, more effective, and more enjoyable to use. The principles of HCI guide us in designing interfaces that are not only visually appealing but also user-centered and efficient. As future designers and developers, we must always prioritize the user experience in everything we create."
+        ],
+        "list": []
+      }
+    ],
+  "HCI2": {
+    "id": "HCI2",
+    "title": "Chapter 2: Guidelines Categories & General HCI Design Guidelines",
+    "summary": "HCI Chapter 2 provides a complete, comprehensive set of information and slide details regarding Guidelines Categories and Example Guidelines.",
+    "sections": [
+      {
+        "heading": "Characteristics of HCI Guidelines",
+        "paragraphs": [
+          "HCI guidelines are more specific than general principles and are characterized by being:"
+        ],
+        "list": [
+          "Task-based",
+          "User-group focused",
+          "Platform-dependent"
+        ]
+      },
+      {
+        "heading": "Types of Guidelines (Categories)",
+        "paragraphs": [
+          "Guidelines are categorized to address different design contexts:"
+        ],
+        "list": [
+          "User Type – Examples include kids, the elderly, and people with disabilities.",
+          "Platform/System – Examples include mobile, desktop, embedded systems, and public kiosks.",
+          "Vendor/Brand – Examples include iOS, Android, Windows, and company branding.",
+          "Interaction Style – Examples include GUI, voice input, gesture, touchscreen, and haptics.",
+          "Task Context – Examples include driving, shopping, outdoor use, and eyes-free scenarios.",
+          "Application Type – Examples include games, e-commerce, social media, and navigation."
+        ]
+      },
+      {
+        "heading": "1. Visual Display Layout",
+        "paragraphs": [
+          "Focuses on how to arrange elements on the screen:",
+          "Example: U.S. government website design recommends placing clickable buttons near the top and center for easy access."
+        ],
+        "list": [
+          "Avoid clutter.",
+          "Use alignment and whitespace.",
+          "Highlight key content at the top or center.",
+          "Use consistent formatting."
+        ]
+      },
+      {
+        "heading": "2. Information Structuring & Navigation",
+        "paragraphs": [
+          "Focuses on how users move through and access information:",
+          "Key Navigation Patterns:"
+        ],
+        "list": [
+          "Organize content logically (either hierarchically or sequentially).",
+          "Use navigation aids like breadcrumbs, tabs, menus, sidebars, site maps, and search features.",
+          "Two-Panel Selector – A list is displayed on the left while corresponding details are displayed on the right.",
+          "One-Window Drilldown – Tapping to move forward or back through screens (typical in mobile applications)."
+        ]
+      },
+      {
+        "heading": "3. Taking User Input",
+        "paragraphs": [
+          "Defined as providing \"Efficient and accurate input methods\":",
+          "Example: A calendar form utilizing structured input fields (such as separate day, month, and year dropdowns) reduces user error."
+        ],
+        "list": [
+          "Use drop-downs, radio buttons, and checkboxes to minimize typing.",
+          "Use auto-complete or suggested values.",
+          "Minimize typing to proactively reduce user errors.",
+          "Use default values.",
+          "Avoid placing conflicting buttons too close together (e.g., placing \"Submit\" and \"Cancel\" side-by-side)."
+        ]
+      },
+      {
+        "heading": "4. Design for Users with Disabilities",
+        "paragraphs": [
+          "Rooted in the Web Content Accessibility Guidelines (WCAG 2.0) framework:",
+          "Example: Websites built with high-contrast themes and adjustable font sizes for visually impaired users."
+        ],
+        "list": [
+          "Provide text alternatives for images.",
+          "Allow keyboard-only navigation (essential for users who cannot use a mouse or touchscreen).",
+          "Avoid flashing content to eliminate seizure risks.",
+          "Use captions for video and audio.",
+          "Make color and contrast adjustable."
+        ]
+      },
+      {
+        "heading": "5. Design for Mobile Devices",
+        "paragraphs": [
+          "Addresses specific physical and screen constraints (small screen, varying orientations, and touch input):",
+          "Example: Android's multi-pane layouts which dynamically adapt their structures for tablets versus phones."
+        ],
+        "list": [
+          "Minimize typing.",
+          "Use larger touch areas that are thumb-friendly.",
+          "Optimize screen space using scrollable panels or tabs.",
+          "Keep users focused with clear paths."
+        ]
+      },
+      {
+        "heading": "6. Vendor-Specific Styles",
+        "paragraphs": [
+          "Adhering to the official interface guidelines of companies:"
+        ],
+        "list": [
+          "Apple iOS Icons – Auto-styled with consistent shapes, standard resolutions, rounded corners, and polished shine effects.",
+          "Microsoft Windows XP Fonts – Explicitly standardized to use Trebuchet for titles and Tahoma for body text."
+        ]
+      },
+      {
+        "heading": "7. Aural Interfaces (Earcons)",
+        "paragraphs": [
+          "Non-verbal, sound-based cues categorized by their relationship to the user's action:",
+          "Example: A simple \"ding\" sound to confirm a message has been successfully sent."
+        ],
+        "list": [
+          "Symbolic – Abstract sound mappings (e.g., playing applause to signal a successful action).",
+          "Nomic – Direct real-world sounds (e.g., using a physical door slam sound).",
+          "Metaphoric – Sounds representing an action by matching its characteristics (e.g., playing a rising pitch to represent an file upload)."
+        ]
+      },
+      {
+        "heading": "8. Designing for Driving or Hands-Free Tasks",
+        "paragraphs": [
+          "Tailored specifically for voice-based systems and car dashboard interfaces:",
+          "Example: A dashboard UI that accepts a \"Call Home\" voice command and displays large, bold buttons."
+        ],
+        "list": [
+          "Use voice commands that match on-screen buttons.",
+          "Group related buttons together.",
+          "Avoid distracting visuals or complex sequential steps."
+        ]
+      },
+      {
+        "heading": "9. E-Commerce UI Design",
+        "paragraphs": [
+          "Rules to ensure smooth online shopping transactions:",
+          "Example: Amazon.com displaying step-by-step progress bars during the checkout flow."
+        ],
+        "list": [
+          "Must be linear and guided (e.g., progressing clearly from cart -> shipping -> payment -> confirmation).",
+          "Provide feedback at each stage (e.g., notifying the user when an item is added to the cart or when a payment is received).",
+          "Separate billing and shipping steps.",
+          "Include options to register or check out as a guest."
+        ]
+      },
+      {
+        "heading": "Challenges in Applying Guidelines",
+        "paragraphs": [
+          "Even with clear rules, designers encounter significant friction points when applying guidelines:",
+          "Pro-Tip: Experienced designers must balance these trade-offs and follow the most critical guidelines based on the specific user, task, and platform."
+        ],
+        "list": [
+          "Too many guidelines -> hard to prioritize",
+          "Guideline conflicts (e.g., brand color vs. accessibility)",
+          "Time and resource constraints",
+          "New technology may lack mature guidelines (e.g., AR/VR interfaces)"
+        ]
+      }
+    ]
+  }
+}
+}
