@@ -1,6 +1,6 @@
 {
-  "HCI2": {
-    "id": "HCI2",
+  "hci1": {
+    "id": "hci1",
     "title": "Human-Computer Interaction (HCI)",
     "summary": "Human-Computer Interaction (HCI) refers to the study and design of the interaction between people (users) and computers, focusing on creating user-friendly interfaces and experiences.",
     "sections": [
@@ -78,8 +78,8 @@
         "list": []
       }
     ],
-  "HCI2": {
-    "id": "HCI2",
+  "hci2": {
+    "id": "hci2",
     "title": "Chapter 2: Guidelines Categories & General HCI Design Guidelines",
     "summary": "HCI Chapter 2 provides a complete, comprehensive set of information and slide details regarding Guidelines Categories and Example Guidelines.",
     "sections": [
