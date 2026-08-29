@@ -1,13 +1,15 @@
 {
   "hci1": {
     "id": "hci1",
-    "title": "Human-Computer Interaction (HCI)",
+    "title": "Chapter 1: Introduction to Human-Computer Interaction",
     "summary": "Human-Computer Interaction (HCI) refers to the study and design of the interaction between people (users) and computers, focusing on creating user-friendly interfaces and experiences.",
     "sections": [
       {
         "heading": "What is HCI?",
         "paragraphs": [
-          "Human-Computer Interaction (HCI) refers to the study and design of the interaction between people (users) and computers. It focuses on creating user-friendly interfaces and experiences. It is a multidisciplinary field that involves:",
+          "Human-Computer Interaction (HCI) refers to the study and design of the interaction between people (users) and computers.",
+          "It focuses on creating user-friendly interfaces and experiences.",
+          "It is a multidisciplinary field that involves:",
           "HCI is about designing systems that allow people to interact with technology easily, efficiently, and safely."
         ],
         "list": [
@@ -23,12 +25,14 @@
           "HCI is about doing things better."
         ],
         "list": [
-          "USABILITY (resulting interface are easy to use, efficient for the task, ensure safety and to correct completion of the task)."
+          "USABILITY – resulting interface are easy to use, efficient for the task, ensure safety and to correct completion of the task."
         ]
       },
       {
         "heading": "Principles of HCI",
-        "paragraphs": [],
+        "paragraphs": [
+          "The core principles of HCI include:"
+        ],
         "list": [
           "“Know Thy User”",
           "Understand the Task",
@@ -42,38 +46,25 @@
       {
         "heading": "Detailed Breakdown of Principles",
         "paragraphs": [
-          "1. “Know Thy User”",
-          "Factors to Consider:",
-          "2. “Understand the Task”",
-          "Design should match the steps and logic of the task the user wants to perform.",
-          "3. Reduce Memory Load",
-          "Users should not be required to memorize (or recall out of their heads) a great deal of information to carry out tasks.",
-          "4. Strive for Consistency",
-          "Users should not have to wonder whether different words, situations, or actions mean the same thing. Don’t confuse your user. In other words, use all elements across your application consistently.",
-          "5. Remind Users and Refresh Their Memory",
-          "Any significant task will involve the use of memory, so another good strategy is to employ interfaces that give continuous reminders of important information and thereby refresh the user’s memory.",
-          "6. Prevent Errors/Reversal of Action",
-          "Users hate errors, and even more so hate the feeling that they themselves have done something wrong. Either eliminate error-prone conditions or check for them and notify users about that before they commit to the action.",
-          "Error Prevention:",
-          "7. Naturalness",
-          "The final major HCI principle is to favor “natural” interaction and interfaces. It follows from the free choice of modalities and may result in a human-computer interaction that is close to human-human communication."
+          "A detailed breakdown of the principles of HCI provides specific guidance for each area."
         ],
         "list": [
-          "Age",
-          "Gender",
-          "Education Level",
-          "Social Status",
-          "Background in Technology",
-          "Error prevention over error correction.",
-          "Automatic detection of errors.",
-          "Clear error notifications.",
-          "Offer solutions for problems."
+          "1. “Know Thy User” – Factors to Consider: Age, Gender, Education Level, Social Status, Background in Technology.",
+          "2. “Understand the Task” – Design should match the steps and logic of the task the user wants to perform.",
+          "3. Reduce Memory Load – Users should not be required to memorize (or recall out of their heads) a great deal of information to carry out tasks.",
+          "4. Strive for Consistency – Users should not have to wonder whether different words, situations, or actions mean the same thing. Don’t confuse your user. In other words, use all elements across your application consistently.",
+          "5. Remind Users and Refresh Their Memory – Any significant task will involve the use of memory, so another good strategy is to employ interfaces that give continuous reminders of important information and thereby refresh the user’s memory.",
+          "6. Prevent Errors/Reversal of Action – Users hate errors, and even more so hate the feeling that they themselves have done something wrong. Either eliminate error-prone conditions or check for them and notify users about that before they commit to the action.",
+          "Error Prevention – Error prevention over error correction, Automatic detection of errors, Clear error notifications, Offer solutions for problems.",
+          "7. Naturalness – The final major HCI principle is to favor “natural” interaction and interfaces. It follows from the free choice of modalities and may result in a human-computer interaction that is close to human-human communication."
         ]
       },
       {
         "heading": "Conclusion",
         "paragraphs": [
-          "Human-Computer Interaction (HCI) plays a vital role in making technology easier, more effective, and more enjoyable to use. The principles of HCI guide us in designing interfaces that are not only visually appealing but also user-centered and efficient. As future designers and developers, we must always prioritize the user experience in everything we create."
+          "Human-Computer Interaction (HCI) plays a vital role in making technology easier, more effective, and more enjoyable to use.",
+          "The principles of HCI guide us in designing interfaces that are not only visually appealing but also user-centered and efficient.",
+          "As future designers and developers, we must always prioritize the user experience in everything we create."
         ],
         "list": []
       }
