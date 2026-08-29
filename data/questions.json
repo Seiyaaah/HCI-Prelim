@@ -1,0 +1,1730 @@
+{
+  "hci1": [
+    {
+      "type": "multiple-choice",
+      "question": "What is the primary definition of Human-Computer Interaction (HCI) according to the source text?",
+      "options": [
+        "The study and design of the interaction between people (users) and computers[cite: 4]",
+        "The process of programming operating systems and hardware components",
+        "The analysis of business management software and computer networks",
+        "The technical engineering of computer microprocessors and circuit boards"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following best describes the core focus of HCI?",
+      "options": [
+        "Writing secure backend database code",
+        "Creating user-friendly interfaces and experiences[cite: 4]",
+        "Maximizing computer processing speeds and memory allocation",
+        "Minimizing hardware manufacturing costs"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the overarching goal of designing systems in HCI?",
+      "options": [
+        "To allow people to interact with technology easily, efficiently, and safely[cite: 1]",
+        "To replace traditional human workflows completely with automation",
+        "To ensure users require extensive technical training before use",
+        "To make software applications run on minimal hardware specifications"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How many key multidisciplinary fields are involved in HCI, according to the source material?",
+      "options": [
+        "Three",
+        "Four[cite: 1]",
+        "Five",
+        "Six"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which multidisciplinary field focuses specifically on creating efficient systems and interfaces?",
+      "options": [
+        "Psychology[cite: 1]",
+        "Design[cite: 1]",
+        "Engineering[cite: 1]",
+        "Ergonomics[cite: 1]"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the context of HCI's multidisciplinary fields, what is the role of psychology?",
+      "options": [
+        "Fitting the system to the human body and needs[cite: 1]",
+        "Understanding user behavior and cognition[cite: 1]",
+        "Making systems attractive and usable[cite: 1]",
+        "Creating efficient systems and interfaces[cite: 1]"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which field is responsible for making systems attractive and usable?",
+      "options": [
+        "Engineering[cite: 1]",
+        "Ergonomics[cite: 1]",
+        "Psychology[cite: 1]",
+        "Design[cite: 1]"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does ergonomics focus on within HCI?",
+      "options": [
+        "Fitting the system to the human body and needs[cite: 1]",
+        "Understanding user behavior and memory limits[cite: 1]",
+        "Developing structured software engineering pipelines[cite: 1]",
+        "Making visual layouts aesthetically pleasing[cite: 1]"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "According to the text, why is HCI important?",
+      "options": [
+        "It is about doing things faster regardless of safety.",
+        "It is about doing things better[cite: 4].",
+        "It is about reducing the cost of computer hardware.",
+        "It is about eliminating the need for user testing."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following attributes define 'Usability' in HCI?",
+      "options": [
+        "Easy to use, efficient for the task, ensures safety, and ensures correct completion of the task[cite: 4]",
+        "Visually striking, highly complex, secure, and multi-platform compatible",
+        "Fast loading, lightweight, automated, and error-free",
+        "Inexpensive, widely distributed, accessible, and customizable"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How many total principles of HCI are outlined in the source text?",
+      "options": [
+        "Five",
+        "Six",
+        "Seven[cite: 4]",
+        "Eight"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the name of Principle 1 in the HCI principles list?",
+      "options": [
+        "Understand the Task[cite: 4]",
+        "Know Thy User[cite: 4]",
+        "Strive for Consistency[cite: 4]",
+        "Naturalness[cite: 4]"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which factors must be considered under the principle 'Know Thy User'?",
+      "options": [
+        "Age, Gender, Education Level, Social Status, and Background in Technology[cite: 4]",
+        "Income Level, Geographic Location, Employment Type, and Marital Status",
+        "Psychological profile, physical height, dominant hand, and visual acuity",
+        "Programming experience, hardware ownership, internet speed, and language preference"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does Principle 2, 'Understand the Task', require of a design?",
+      "options": [
+        "Design should match the steps and logic of the task the user wants to perform[cite: 4].",
+        "Design should simplify complex tasks by removing necessary steps.",
+        "Design should force users to learn new workflows to improve efficiency.",
+        "Design should automate all user actions without human intervention."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the core directive of Principle 3, 'Reduce Memory Load'?",
+      "options": [
+        "Users should memorize all shortcut keys before starting a task.",
+        "Users should not be required to memorize (or recall out of their heads) a great deal of information to carry out tasks[cite: 4].",
+        "Interfaces should store user passwords in plain text for easy retrieval.",
+        "Applications should clear cache memory frequently to save space."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What problem does Principle 4, 'Strive for Consistency', aim to prevent?",
+      "options": [
+        "Users wondering whether different words, situations, or actions mean the same thing[cite: 4]",
+        "Applications crashing due to insufficient system memory",
+        "Users making physical ergonomic errors while typing",
+        "Interfaces looking visually dull and unappealing"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Under 'Strive for Consistency', how should elements be handled across an application?",
+      "options": [
+        "Elements should vary dynamically depending on the user's age.",
+        "Elements should be used consistently across your application[cite: 4].",
+        "Elements should change based on the specific device being used.",
+        "Elements should be redesigned periodically to prevent user boredom."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "According to the text, why is Principle 5, 'Remind Users and Refresh Their Memory', necessary?",
+      "options": [
+        "Because computers have limited storage capacity for user files.",
+        "Because any significant task will involve the use of memory[cite: 4].",
+        "Because users tend to forget their login credentials frequently.",
+        "Because system updates erase user preferences automatically."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How should interfaces fulfill Principle 5 ('Remind Users and Refresh Their Memory')?",
+      "options": [
+        "By employing interfaces that give continuous reminders of important information[cite: 4]",
+        "By forcing users to re-enter their data periodically",
+        "By locking the screen after a short period of inactivity",
+        "By hiding critical information until a specific error occurs"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do users generally feel about errors, according to Principle 6?",
+      "options": [
+        "Users love errors because they provide learning opportunities.",
+        "Users are indifferent to errors as long as they are fixable.",
+        "Users hate errors, and even more so hate the feeling that they themselves have done something wrong[cite: 4].",
+        "Users expect errors in modern software and rarely notice them."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the primary action required under Principle 6 ('Prevent Errors/Reversal of Action')?",
+      "options": [
+        "Eliminate error-prone conditions or check for them and notify users about that before they commit to the action[cite: 4].",
+        "Punish users with lockouts when they make repetitive mistakes.",
+        "Allow errors to happen so the system can correct them automatically later.",
+        "Hide error logs from users to prevent anxiety."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is listed as an error prevention strategy in the text?",
+      "options": [
+        "Error correction over error prevention",
+        "Manual detection of errors by the user",
+        "Error prevention over error correction[cite: 4]",
+        "Silent background deletion of incorrect data"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Along with error prevention, what technical feature is expected for error handling?",
+      "options": [
+        "Automatic detection of errors[cite: 4]",
+        "Immediate system shutdown upon error detection",
+        "Mandatory customer support phone calls",
+        "Randomized error code generation"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When an error occurs, what should the interface provide according to the guidelines?",
+      "options": [
+        "Vague warning codes for security reasons",
+        "Clear error notifications and offering solutions for problems[cite: 4]",
+        "A complete reset of the user profile",
+        "An immediate requirement to restart the device"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is Principle 7 of HCI?",
+      "options": [
+        "Naturalness[cite: 4]",
+        "Simplicity",
+        "Flexibility",
+        "Modularity"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does Principle 7 ('Naturalness') encourage designers to favor?",
+      "options": [
+        "Strictly command-line interfaces for maximum efficiency",
+        "“Natural” interaction and interfaces[cite: 4]",
+        "Complex menu hierarchies that test cognitive limits",
+        "Exclusively physical button controls over digital screens"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does Naturalness follow from, according to the text?",
+      "options": [
+        "The free choice of modalities[cite: 4]",
+        "Rigid adherence to hardware specifications",
+        "The elimination of visual graphics",
+        "Automated artificial intelligence scripts"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What kind of interaction may result from applying the principle of Naturalness?",
+      "options": [
+        "An interaction that mimics machine-to-machine communication protocols",
+        "An interaction that is close to human-human communication[cite: 4]",
+        "An interaction that requires specialized programming knowledge",
+        "An interaction that completely avoids text-based inputs"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "According to the conclusion, what role does HCI play in technology?",
+      "options": [
+        "It plays a vital role in making technology easier, more effective, and more enjoyable to use[cite: 4].",
+        "It plays a secondary role compared to backend database optimization.",
+        "It focuses primarily on reducing software licensing costs.",
+        "It ensures that computer hardware runs at peak thermal efficiency."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do the principles of HCI guide designers in doing?",
+      "options": [
+        "Writing bug-free assembly code",
+        "Designing interfaces that are not only visually appealing but also user-centered and efficient[cite: 4]",
+        "Creating corporate technology business models",
+        "Selecting computer processors and RAM configurations"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What must future designers and developers always prioritize in everything they create, as stated in the conclusion?",
+      "options": [
+        "The user experience[cite: 4]",
+        "The corporate profit margin",
+        "The latest programming framework",
+        "The minimal server load"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "If an interface requires a user to recall a massive amount of data from memory to proceed, which HCI principle is being violated?",
+      "options": [
+        "Strive for Consistency[cite: 4]",
+        "Reduce Memory Load[cite: 4]",
+        "Naturalness[cite: 4]",
+        "Understand the Task[cite: 4]"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "If an application uses different terminology for the exact same action on two separate screens, which principle is violated?",
+      "options": [
+        "Know Thy User[cite: 4]",
+        "Prevent Errors/Reversal of Action[cite: 4]",
+        "Strive for Consistency[cite: 4]",
+        "Remind Users and Refresh Their Memory[cite: 4]"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When designing an application that needs to fit the human body and physical needs, which multidisciplinary area is being applied?",
+      "options": [
+        "Engineering[cite: 1]",
+        "Psychology[cite: 1]",
+        "Design[cite: 1]",
+        "Ergonomics[cite: 1]"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When a designer analyzes user behavior and cognition, which multidisciplinary field are they utilizing?",
+      "options": [
+        "Psychology[cite: 1]",
+        "Engineering[cite: 1]",
+        "Ergonomics[cite: 1]",
+        "Usability analysis"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which factor under 'Know Thy User' relates specifically to a user's familiarity with technology?",
+      "options": [
+        "Age[cite: 4]",
+        "Social Status[cite: 4]",
+        "Background in Technology[cite: 4]",
+        "Education Level[cite: 4]"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What ensures that an interface is efficient for a task and ensures correct completion?",
+      "options": [
+        "Usability[cite: 4]",
+        "Multidisciplinary engineering",
+        "Automated error correction",
+        "Visual attractiveness alone"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why should an interface provide continuous reminders of important information?",
+      "options": [
+        "To satisfy Principle 5: Remind Users and Refresh Their Memory[cite: 4]",
+        "To comply with Principle 2: Understand the Task[cite: 4]",
+        "To enforce Principle 1: Know Thy User[cite: 4]",
+        "To achieve Principle 7: Naturalness[cite: 4]"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which principle directly addresses a user's hatred of feeling that they made a mistake themselves?",
+      "options": [
+        "Strive for Consistency[cite: 4]",
+        "Prevent Errors/Reversal of Action[cite: 4]",
+        "Reduce Memory Load[cite: 4]",
+        "Naturalness[cite: 4]"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the study of HCI, what do people interacting with computers represent?",
+      "options": [
+        "The users[cite: 4]",
+        "The system administrators",
+        "The hardware technicians",
+        "The code compilers"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which multidisciplinary component focuses on creating systems that are attractive and usable?",
+      "options": [
+        "Engineering[cite: 1]",
+        "Psychology[cite: 1]",
+        "Design[cite: 1]",
+        "Ergonomics[cite: 1]"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the result when an interface is easy to use, efficient, ensures safety, and guarantees correct task completion?",
+      "options": [
+        "High usability[cite: 4]",
+        "Advanced technical coding",
+        "Optimized hardware performance",
+        "Automated error prevention"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is NOT one of the factors to consider under 'Know Thy User'?",
+      "options": [
+        "Age[cite: 4]",
+        "Gender[cite: 4]",
+        "Processor speed[cite: 4]",
+        "Social Status[cite: 4]"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What should design match according to Principle 2 ('Understand the Task')?",
+      "options": [
+        "The steps and logic of the task the user wants to perform[cite: 4]",
+        "The underlying database schema of the software",
+        "The physical dimensions of the computer screen",
+        "The aesthetic preferences of the software developer"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What should be prioritized over error correction, according to the error prevention guidelines?",
+      "options": [
+        "Error notification clarity",
+        "Error prevention[cite: 4]",
+        "Automatic error detection",
+        "Problem solution offers"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "If an interface gives clear error notifications and offers solutions for problems, which principle is being implemented?",
+      "options": [
+        "Prevent Errors/Reversal of Action[cite: 4]",
+        "Strive for Consistency[cite: 4]",
+        "Remind Users and Refresh Their Memory[cite: 4]",
+        "Understand the Task[cite: 4]"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following describes the interaction style sought by the 'Naturalness' principle?",
+      "options": [
+        "Close to human-human communication[cite: 4]",
+        "Strictly programmatic and script-based",
+        "Dependent on complex manuals and documentation",
+        "Characterized by rigid mechanical prompts"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which demographic and personal factors are listed together under Principle 1?",
+      "options": [
+        "Age, Gender, Education Level, Social Status, and Background in Technology[cite: 4]",
+        "Profession, Income, Geographic Region, and Language",
+        "Height, Weight, Age, and Technical Skill",
+        "Education, Salary, Marital Status, and Device Type"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is a core outcome of applying HCI principles to interface design, as stated in the text?",
+      "options": [
+        "Interfaces that are visually appealing, user-centered, and efficient[cite: 4]",
+        "Software that requires minimal hardware resources to operate",
+        "Applications that eliminate the need for human users entirely",
+        "Systems that restrict access based on technical background"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "identification",
+      "question": "Identify the academic field that refers to the study and design of the interaction between people and computers.",
+      "answer": "Human-Computer Interaction (HCI)"
+    },
+    {
+      "type": "identification",
+      "question": "What specific type of interfaces and experiences does HCI focus on creating?",
+      "answer": "user-friendly interfaces and experiences"
+    },
+    {
+      "type": "identification",
+      "question": "Which multidisciplinary field component involves creating efficient systems and interfaces?",
+      "answer": "Engineering"
+    },
+    {
+      "type": "identification",
+      "question": "Which multidisciplinary field component involves understanding user behavior and cognition?",
+      "answer": "Psychology"
+    },
+    {
+      "type": "identification",
+      "question": "Which multidisciplinary field component involves making systems attractive and usable?",
+      "answer": "Design"
+    },
+    {
+      "type": "identification",
+      "question": "Which multidisciplinary field component involves fitting the system to the human body and needs?",
+      "answer": "Ergonomics"
+    },
+    {
+      "type": "identification",
+      "question": "In addition to being easy and efficient, what third outcome must HCI systems allow people to interact with technology with?",
+      "answer": "safely"
+    },
+    {
+      "type": "identification",
+      "question": "According to the text, what is HCI fundamentally about doing?",
+      "answer": "doing things better"
+    },
+    {
+      "type": "identification",
+      "question": "What concept ensures resulting interfaces are easy to use, efficient for the task, ensure safety, and ensure correct completion of the task?",
+      "answer": "USABILITY"
+    },
+    {
+      "type": "identification",
+      "question": "Identify the first principle of HCI listed in the text.",
+      "answer": "Know Thy User"
+    },
+    {
+      "type": "identification",
+      "question": "Identify the second principle of HCI listed in the text.",
+      "answer": "Understand the Task"
+    },
+    {
+      "type": "identification",
+      "question": "Identify the third principle of HCI listed in the text.",
+      "answer": "Reduce Memory Load"
+    },
+    {
+      "type": "identification",
+      "question": "Identify the fourth principle of HCI listed in the text.",
+      "answer": "Strive for Consistency"
+    },
+    {
+      "type": "identification",
+      "question": "Identify the fifth principle of HCI listed in the text.",
+      "answer": "Remind Users and Refresh Their Memory"
+    },
+    {
+      "type": "identification",
+      "question": "Identify the sixth principle of HCI listed in the text.",
+      "answer": "Prevent Errors/Reversal of Action"
+    },
+    {
+      "type": "identification",
+      "question": "Identify the seventh and final major principle of HCI listed in the text.",
+      "answer": "Naturalness"
+    },
+    {
+      "type": "identification",
+      "question": "What is the first demographic factor to consider under the \"Know Thy User\" principle?",
+      "answer": "Age"
+    },
+    {
+      "type": "identification",
+      "question": "What is the second demographic factor to consider under the \"Know Thy User\" principle?",
+      "answer": "Gender"
+    },
+    {
+      "type": "identification",
+      "question": "What is the third demographic factor to consider under the \"Know Thy User\" principle?",
+      "answer": "Education Level"
+    },
+    {
+      "type": "identification",
+      "question": "What is the fourth demographic factor to consider under the \"Know Thy User\" principle?",
+      "answer": "Social Status"
+    },
+    {
+      "type": "identification",
+      "question": "What is the fifth factor to consider under the \"Know Thy User\" principle regarding familiarity?",
+      "answer": "Background in Technology"
+    },
+    {
+      "type": "identification",
+      "question": "Under the principle \"Understand the Task\", design should match the steps and what other attribute?",
+      "answer": "logic"
+    },
+    {
+      "type": "identification",
+      "question": "Under the principle \"Reduce Memory Load\", what should users not be required to memorize a great deal of?",
+      "answer": "information"
+    },
+    {
+      "type": "identification",
+      "question": "According to principle 5, any significant task will involve the use of what mental faculty?",
+      "answer": "memory"
+    },
+    {
+      "type": "identification",
+      "question": "Under error prevention, what specific conditions should either be eliminated or checked for?",
+      "answer": "error-prone conditions"
+    },
+    {
+      "type": "identification",
+      "question": "What specific strategy is explicitly prioritized over error correction under the error prevention guidelines?",
+      "answer": "Error prevention"
+    },
+    {
+      "type": "identification",
+      "question": "What feature of error handling involves the system finding mistakes automatically?",
+      "answer": "Automatic detection of errors"
+    },
+    {
+      "type": "identification",
+      "question": "What type of notifications must be provided to users when errors are detected?",
+      "answer": "Clear error notifications"
+    },
+    {
+      "type": "identification",
+      "question": "What must be offered for problems under error prevention guidelines?",
+      "answer": "offer solutions for problems"
+    },
+    {
+      "type": "identification",
+      "question": "Which principle favors \"natural\" interaction and interfaces as its final major concept?",
+      "answer": "Naturalness"
+    },
+    {
+      "type": "identification",
+      "question": "The principle of naturalness follows directly from the free choice of what parameter?",
+      "answer": "modalities"
+    },
+    {
+      "type": "identification",
+      "question": "Naturalness may result in a human-computer interaction that is close to what other form of communication?",
+      "answer": "human-human communication"
+    },
+    {
+      "type": "identification",
+      "question": "The principles of HCI guide us in designing interfaces that are visually appealing, user-centered, and what?",
+      "answer": "efficient"
+    },
+    {
+      "type": "identification",
+      "question": "As future designers and developers, what must we always prioritize in everything we create?",
+      "answer": "the user experience"
+    },
+    {
+      "type": "identification",
+      "question": "What term is used in the text to refer to people who interact with computers?",
+      "answer": "users"
+    },
+    {
+      "type": "identification",
+      "question": "What machine is studied alongside people in Human-Computer Interaction?",
+      "answer": "computers"
+    },
+    {
+      "type": "identification",
+      "question": "Which multidisciplinary field focuses on creating efficient systems?",
+      "answer": "Engineering"
+    },
+    {
+      "type": "identification",
+      "question": "Which multidisciplinary field focuses on understanding user behavior?",
+      "answer": "Psychology"
+    },
+    {
+      "type": "identification",
+      "question": "Which multidisciplinary field focuses on making systems usable?",
+      "answer": "Design"
+    },
+    {
+      "type": "identification",
+      "question": "Which multidisciplinary field focuses on fitting the system to the human body?",
+      "answer": "Ergonomics"
+    },
+    {
+      "type": "identification",
+      "question": "What negative occurrence do users hate, according to the error prevention section?",
+      "answer": "errors"
+    },
+    {
+      "type": "identification",
+      "question": "What must be checked or eliminated before users commit to an action?",
+      "answer": "error-prone conditions"
+    },
+    {
+      "type": "identification",
+      "question": "What study and design field bridges people and computers?",
+      "answer": "Human-Computer Interaction (HCI)"
+    },
+    {
+      "type": "identification",
+      "question": "What is HCI about doing things in a better way, categorized under its importance?",
+      "answer": "doing things better"
+    },
+    {
+      "type": "identification",
+      "question": "What kind of interfaces are created by focusing on user-friendly designs in HCI?",
+      "answer": "user-friendly interfaces"
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the multidisciplinary fields that are involved in Human-Computer Interaction (HCI).",
+      "answer": [
+        "Engineering",
+        "Psychology",
+        "Design",
+        "Ergonomics"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the principles of HCI listed in the text.",
+      "answer": [
+        "“Know Thy User”",
+        "Understand the Task",
+        "Reduce Memory Load",
+        "Strive for Consistency",
+        "Remind Users and Refresh Their Memory",
+        "Prevent Errors/Reversal of Action",
+        "Naturalness"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the factors to consider under the principle “Know Thy User”.",
+      "answer": [
+        "Age",
+        "Gender",
+        "Education Level",
+        "Social Status",
+        "Background in Technology"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the characteristics resulting from usability as stated in the text.",
+      "answer": [
+        "easy to use",
+        "efficient for the task",
+        "ensure safety",
+        "correct completion of the task"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the points listed under Error Prevention.",
+      "answer": [
+        "Error prevention over error correction",
+        "Automatic detection of errors",
+        "Clear error notifications",
+        "Offer solutions for problems"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate how HCI allows people to interact with technology easily, efficiently, and safely based on the introduction.",
+      "answer": [
+        "easily",
+        "efficiently",
+        "safely"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the qualities used in the conclusion to describe interfaces guided by the principles of HCI.",
+      "answer": [
+        "visually appealing",
+        "user-centered",
+        "efficient"
+      ]
+    }
+  ],
+  "hci2": [
+    {
+      "type": "identification",
+      "question": "What characteristic describes HCI guidelines as being specific to the actions being performed?",
+      "answer": "Task-based"
+    },
+    {
+      "type": "identification",
+      "question": "What characteristic describes HCI guidelines as being focused on specific audiences or demographics?",
+      "answer": "User-group focused"
+    },
+    {
+      "type": "identification",
+      "question": "What characteristic describes HCI guidelines as being dependent on the hardware or software operating environment?",
+      "answer": "Platform-dependent"
+    },
+    {
+      "type": "identification",
+      "question": "What guideline category addresses distinct demographics such as kids, the elderly, and people with disabilities?",
+      "answer": "User Type"
+    },
+    {
+      "type": "identification",
+      "question": "What guideline category covers environments like mobile, desktop, embedded systems, and public kiosks?",
+      "answer": "Platform/System"
+    },
+    {
+      "type": "identification",
+      "question": "What guideline category addresses iOS, Android, Windows, and company branding?",
+      "answer": "Vendor/Brand"
+    },
+    {
+      "type": "identification",
+      "question": "What guideline category covers GUI, voice input, gesture, touchscreen, and haptics?",
+      "answer": "Interaction Style"
+    },
+    {
+      "type": "identification",
+      "question": "What guideline category addresses contexts such as driving, shopping, outdoor use, and eyes-free scenarios?",
+      "answer": "Task Context"
+    },
+    {
+      "type": "identification",
+      "question": "What guideline category covers genres such as games, e-commerce, social media, and navigation?",
+      "answer": "Application Type"
+    },
+    {
+      "type": "identification",
+      "question": "What is the first general HCI design guideline that focuses on how to arrange elements on the screen?",
+      "answer": "Visual Display Layout"
+    },
+    {
+      "type": "identification",
+      "question": "Where does visual display layout recommend highlighting key content on the screen?",
+      "answer": "Top or center"
+    },
+    {
+      "type": "identification",
+      "question": "What website design example recommends placing clickable buttons near the top and center for easy access?",
+      "answer": "U.S. government website design"
+    },
+    {
+      "type": "identification",
+      "question": "What is the second general HCI design guideline that focuses on how users move through and access information?",
+      "answer": "Information Structuring & Navigation"
+    },
+    {
+      "type": "identification",
+      "question": "What navigation pattern displays a list on the left while corresponding details are displayed on the right?",
+      "answer": "Two-Panel Selector"
+    },
+    {
+      "type": "identification",
+      "question": "What navigation pattern involves tapping to move forward or back through screens, typically seen in mobile apps?",
+      "answer": "One-Window Drilldown"
+    },
+    {
+      "type": "identification",
+      "question": "What is the third general HCI design guideline defined as providing efficient and accurate input methods?",
+      "answer": "Taking User Input"
+    },
+    {
+      "type": "identification",
+      "question": "What specific form example utilizes structured dropdown fields for day, month, and year to reduce user error?",
+      "answer": "A calendar form"
+    },
+    {
+      "type": "identification",
+      "question": "What is the fourth general HCI design guideline rooted in web accessibility standards?",
+      "answer": "Design for Users with Disabilities"
+    },
+    {
+      "type": "identification",
+      "question": "What specific framework serves as the foundational basis for designing for users with disabilities?",
+      "answer": "Web Content Accessibility Guidelines (WCAG 2.0)"
+    },
+    {
+      "type": "identification",
+      "question": "What accessibility rule requires providing descriptive text alternatives for images?",
+      "answer": "Provide text alternatives for images"
+    },
+    {
+      "type": "identification",
+      "question": "What navigation alternative is essential for users who cannot use a mouse or touchscreen?",
+      "answer": "Keyboard-only navigation"
+    },
+    {
+      "type": "identification",
+      "question": "What design rule avoids flashing content to eliminate seizure risks?",
+      "answer": "Avoid flashing content"
+    },
+    {
+      "type": "identification",
+      "question": "What media enhancement is required for video and audio content to aid accessibility?",
+      "answer": "Captions"
+    },
+    {
+      "type": "identification",
+      "question": "What visual property must be made adjustable to accommodate visually impaired users?",
+      "answer": "Color and contrast"
+    },
+    {
+      "type": "identification",
+      "question": "What is the fifth general HCI design guideline that addresses physical and screen constraints such as small screens and touch input?",
+      "answer": "Design for Mobile Devices"
+    },
+    {
+      "type": "identification",
+      "question": "What mobile touch design rule specifies creating larger interactive areas that are thumb-friendly?",
+      "answer": "Larger touch areas"
+    },
+    {
+      "type": "identification",
+      "question": "What mobile layout technique utilizes scrollable panels or tabs to optimize limited display room?",
+      "answer": "Optimize screen space"
+    },
+    {
+      "type": "identification",
+      "question": "What mobile design approach uses clear paths to keep users focused?",
+      "answer": "Keep users focused with clear paths"
+    },
+    {
+      "type": "identification",
+      "question": "Which platform features multi-pane layouts that dynamically adapt their structures for tablets versus phones?",
+      "answer": "Android"
+    },
+    {
+      "type": "identification",
+      "question": "What is the sixth general HCI design guideline focused on adhering to official company interface rules?",
+      "answer": "Vendor-Specific Styles"
+    },
+    {
+      "type": "identification",
+      "question": "Which platform's icons are auto-styled with consistent shapes, standard resolutions, rounded corners, and polished shine effects?",
+      "answer": "Apple iOS"
+    },
+    {
+      "type": "identification",
+      "question": "Which operating system explicitly standardizes its fonts to use Trebuchet for titles and Tahoma for body text?",
+      "answer": "Microsoft Windows XP"
+    },
+    {
+      "type": "identification",
+      "question": "What is the seventh general HCI design guideline that refers to non-verbal, sound-based cues?",
+      "answer": "Aural Interfaces (Earcons)"
+    },
+    {
+      "type": "identification",
+      "question": "What category of earcons uses abstract sound mappings such as playing applause to signal success?",
+      "answer": "Symbolic"
+    },
+    {
+      "type": "identification",
+      "question": "What category of earcons uses direct real-world sounds such as a physical door slam?",
+      "answer": "Nomic"
+    },
+    {
+      "type": "identification",
+      "question": "What category of earcons uses sounds representing an action by matching its characteristics, like a rising pitch for a file upload?",
+      "answer": "Metaphoric"
+    },
+    {
+      "type": "identification",
+      "question": "What simple sound example is used to confirm a message has been successfully sent in aural interfaces?",
+      "answer": "A simple 'ding' sound"
+    },
+    {
+      "type": "identification",
+      "question": "What is the eighth general HCI design guideline tailored for car dashboard interfaces and voice systems?",
+      "answer": "Designing for Driving or Hands-Free Tasks"
+    },
+    {
+      "type": "identification",
+      "question": "What specific dashboard UI example accepts voice commands and displays large, bold buttons?",
+      "answer": "Call Home"
+    },
+    {
+      "type": "identification",
+      "question": "What is the ninth general HCI design guideline dedicated to online shopping experiences?",
+      "answer": "E-Commerce UI Design"
+    },
+    {
+      "type": "identification",
+      "question": "What e-commerce website example displays step-by-step progress bars during the checkout flow?",
+      "answer": "Amazon.com"
+    },
+    {
+      "type": "identification",
+      "question": "What guideline challenge happens when elements like brand colors clash with WCAG requirements?",
+      "answer": "Guideline conflicts"
+    },
+    {
+      "type": "identification",
+      "question": "What design challenge is caused by limited project schedules and budgets during development?",
+      "answer": "Time and resource constraints"
+    },
+    {
+      "type": "identification",
+      "question": "What challenge happens when brand-new technology lacks mature guidelines, such as AR/VR interfaces?",
+      "answer": "New technology may lack mature guidelines"
+    },
+    {
+      "type": "identification",
+      "question": "What navigation aids are listed alongside tabs, menus, sidebars, site maps, and search features?",
+      "answer": "Breadcrumbs"
+    },
+    {
+      "type": "identification",
+      "question": "What font does Microsoft Windows XP explicitly standardize for document or window titles?",
+      "answer": "Trebuchet"
+    },
+    {
+      "type": "identification",
+      "question": "What font does Microsoft Windows XP explicitly standardize for body text?",
+      "answer": "Tahoma"
+
+    },
+{
+"type": "multiple-choice",
+"question": "What are the primary characteristics that define HCI guidelines compared to general principles?",
+"options": [
+"General, theoretical, and brand-neutral",
+"Task-based, user-group focused, and platform-dependent",
+"Aesthetic-driven, abstract, and hardware-independent",
+"Developer-focused, cost-oriented, and speed-based"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which of the following best exemplifies the 'User Type' category of HCI guidelines?",
+"options": [
+"Kids, the elderly, and people with disabilities",
+"Mobile and desktop systems",
+"iOS, Android, and Windows branding",
+"Driving, shopping, and outdoor use"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "Guidelines that include examples such as mobile, desktop, embedded systems, and public kiosks belong to which category?",
+"options": [
+"User Type",
+"Platform/System",
+"Vendor/Brand",
+"Application Type"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Company branding, iOS, Android, and Windows are examples of which guideline category?",
+"options": [
+"Interaction Style",
+"Platform/System",
+"Vendor/Brand",
+"Task Context"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "GUI, voice input, gesture, touchscreen, and haptics fall under which category of guidelines?",
+"options": [
+"Application Type",
+"Interaction Style",
+"Task Context",
+"User Type"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Driving, shopping, outdoor use, and eyes-free scenarios are specific examples of which guideline category?",
+"options": [
+"Vendor/Brand",
+"Platform/System",
+"Task Context",
+"Application Type"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "Games, e-commerce, social media, and navigation are examples of which category of guidelines?",
+"options": [
+"Application Type",
+"User Type",
+"Task Context",
+"Interaction Style"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "What is the primary focus of the first General HCI Design Guideline, 'Visual Display Layout'?",
+"options": [
+"How users move through and access information",
+"How to arrange elements on the screen",
+"Efficient and accurate input methods",
+"Adapting to physical and screen constraints"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which of the following is recommended by U.S. government website design regarding visual display layout?",
+"options": [
+"Using flashing content to draw user attention",
+"Placing clickable buttons near the top and center for easy access",
+"Placing navigation sidebars exclusively on the right side",
+"Maximizing screen clutter to provide all options at once"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What does the second General HCI Design Guideline, 'Information Structuring & Navigation,' primarily focus on?",
+"options": [
+"How users move through and access information",
+"How to arrange visual elements on a static display",
+"Providing efficient and accurate text input methods",
+"Adhering to official company interface styling rules"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "How should content be organized under the 'Information Structuring & Navigation' guideline?",
+"options": [
+"Randomly or alphabetically",
+"Hierarchically or sequentially",
+"By vendor brand or platform style",
+"By audio cues and earcons"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which navigation pattern is described as having a list displayed on the left while corresponding details are displayed on the right?",
+"options": [
+"Two-Panel Selector",
+"One-Window Drilldown",
+"Multi-Pane Layout",
+"Linear Guided Checkout"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "Which navigation pattern involves tapping to move forward or back through screens and is typical in mobile applications?",
+"options": [
+"Two-Panel Selector",
+"One-Window Drilldown",
+"Symbolic Earcon Sequence",
+"Hierarchical Breadcrumb Trail"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "How is guideline 3, 'Taking User Input,' specifically defined in the text?",
+"options": [
+"Efficient and accurate input methods",
+"Minimalist visual display layouts",
+"Cross-platform vendor consistency",
+"High-contrast accessibility standards"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "Which of the following methods is recommended to minimize typing and reduce user errors when taking user input?",
+"options": [
+"Forcing users to type out every response manually",
+"Using drop-downs, radio buttons, and checkboxes",
+"Placing 'Submit' and 'Cancel' buttons directly side-by-side",
+"Eliminating default values entirely"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What potential interface design error is explicitly warned against under the 'Taking User Input' guideline?",
+"options": [
+"Avoid placing conflicting buttons too close together (e.g., 'Submit' and 'Cancel')",
+"Using auto-complete or suggested values",
+"Organizing content hierarchically or sequentially",
+"Providing text alternatives for images"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "What practical example is given under 'Taking User Input' to illustrate reduced user error?",
+"options": [
+"An e-commerce multi-stage checkout progress bar",
+"A calendar form utilizing structured input fields like separate day, month, and year dropdowns",
+"An Android multi-pane layout adapting to tablets",
+"A dashboard voice command interface"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "The guideline 'Design for Users with Disabilities' is rooted in which framework?",
+"options": [
+"ISO 9241 Ergonomics of Human-System Interaction",
+"Web Content Accessibility Guidelines (WCAG 2.0)",
+"Apple iOS Human Interface Guidelines",
+"Microsoft Windows XP Typography Standards"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which of the following is a specific requirement under 'Design for Users with Disabilities'?",
+"options": [
+"Avoid flashing content to eliminate seizure risks",
+"Use complex flashing animations to draw user attention",
+"Restrict navigation exclusively to mouse inputs",
+"Use low-contrast color themes for aesthetic branding"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "Why is keyboard-only navigation specifically emphasized in the 'Design for Users with Disabilities' guideline?",
+"options": [
+"It is essential for users who cannot use a mouse or touchscreen",
+"It completely replaces voice input interfaces",
+"It speeds up e-commerce payment confirmation steps",
+"It standardizes font choices for titles and body text"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "What physical and screen constraints are specifically addressed by the 'Design for Mobile Devices' guideline?",
+"options": [
+"Small screen, varying orientations, and touch input",
+"Large public kiosk displays and embedded hardware limitations",
+"Desktop monitors with high-resolution Trebuchet typography",
+"Voice-only car dashboard audio feedback systems"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "Which design approach is exemplified by Android's multi-pane layouts adapting dynamically between tablets and phones?",
+"options": [
+"Vendor-Specific Styles",
+"Design for Mobile Devices",
+"Visual Display Layout",
+"Aural Interfaces (Earcons)"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What does the 'Vendor-Specific Styles' guideline require designers to do?",
+"options": [
+"Adhere to the official interface guidelines of companies",
+"Create completely unique branding independent of platform standards",
+"Avoid using icons or standardized fonts",
+"Implement universal cross-platform touch targets"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "How are Apple iOS icons auto-styled according to the vendor-specific styles guideline?",
+"options": [
+"Trebuchet titles and Tahoma body text",
+"Consistent shapes, standard resolutions, rounded corners, and polished shine effects",
+"Abstract sound mappings and nomic door slams",
+"High-contrast themes and text alternatives"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "According to Microsoft Windows XP font guidelines, which specific fonts were explicitly standardized?",
+"options": [
+"Arial for titles and Times New Roman for body text",
+"Trebuchet for titles and Tahoma for body text",
+"Helvetica for titles and Comic Sans for body text",
+"Courier for titles and Verdana for body text"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "How are aural interfaces (earcons) categorized in guideline 7?",
+"options": [
+"By their screen size and orientation constraints",
+"By their direct relationship to the user's action",
+"By their hierarchical or sequential navigation structure",
+"By their vendor-specific brand identity"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What are the three categories of aural interfaces (earcons) mentioned in the text?",
+"options": [
+"Symbolic, Nomic, and Metaphoric",
+"Audio, Visual, and Tactile",
+"Primary, Secondary, and Tertiary",
+"Task-based, User-focused, and Platform-dependent"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "Which category of earcons uses abstract sound mappings, such as playing applause to signal a successful action?",
+"options": [
+"Nomic",
+"Symbolic",
+"Metaphoric",
+"Systemic"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which category of earcons uses direct real-world sounds, such as using a physical door slam sound?",
+"options": [
+"Abstract sound mappings",
+"Nomic",
+"Metaphoric",
+"Acoustic"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which category of earcons uses sounds representing an action by matching its characteristics, like a rising pitch for a file upload?",
+"options": [
+"Metaphoric",
+"Symbolic",
+"Nomic",
+"Dynamic"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "What is a common real-world example of an aural interface cue given in the text to confirm a message has been successfully sent?",
+"options": [
+"A simple 'ding' sound",
+"A loud door slam sound",
+"An applause sound",
+"A rising pitch audio file"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "For whom is the eighth General HCI Design Guideline, 'Designing for Driving or Hands-Free Tasks,' specifically tailored?",
+"options": [
+"Voice-based systems and car dashboard interfaces",
+"E-commerce online shopping checkout workflows",
+"Desktop operating system font standardizers",
+"Mobile applications with multi-pane tablet layouts"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "Which of the following practices is recommended when designing for driving or hands-free tasks?",
+"options": [
+"Use voice commands that match on-screen buttons and group related buttons together",
+"Incorporate complex sequential steps and distracting visuals",
+"Maximize typing to ensure accurate user input",
+"Use small touch targets and flashing content"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "What real-world example illustrates the dashboard UI design for driving or hands-free tasks?",
+"options": [
+"Amazon.com displaying step-by-step progress bars during checkout",
+"A dashboard UI that accepts a 'Call Home' voice command and displays large, bold buttons",
+"A calendar form with separate day, month, and year dropdowns",
+"Android multi-pane layouts adapting dynamically"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What is the primary focus of guideline 9, 'E-Commerce UI Design'?",
+"options": [
+"Rules to ensure smooth online shopping transactions",
+"Standardizing typography for Microsoft Windows XP",
+"Providing abstract earcons and aural cues for mobile games",
+"Establishing WCAG 2.0 keyboard-only navigation standards"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "How should online shopping transactions be structured under the E-Commerce UI Design guideline?",
+"options": [
+"Linear and guided (e.g., cart -> shipping -> payment -> confirmation)",
+"Non-linear, random, and unguided",
+"Driven entirely by voice commands and haptics",
+"Based on two-panel selectors and one-window drilldowns"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "What specific requirement is mandated regarding billing and shipping steps in E-Commerce UI Design?",
+"options": [
+"Combine billing and shipping into a single uneditable field",
+"Separate billing and shipping steps",
+"Eliminate shipping steps entirely for guest checkouts",
+"Place billing and shipping side-by-side with conflicting buttons"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which checkout options must be included in E-Commerce UI Design guidelines?",
+"options": [
+"Options to register or check out as a guest",
+"Mandatory account creation with no guest option",
+"Automatic registration without user consent",
+"Exclusively offline payment confirmation"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "What example is given to illustrate E-Commerce UI Design guidelines?",
+"options": [
+"U.S. government website design placing clickable buttons near the top",
+"Amazon.com displaying step-by-step progress bars during the checkout flow",
+"Android multi-pane layouts adapting for tablets versus phones",
+"A calendar form utilizing separate day, month, and year dropdowns"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What is one of the primary challenges designers face regarding the sheer volume of guidelines?",
+"options": [
+"Too many guidelines make them hard to prioritize",
+"Guidelines are too few to cover basic user needs",
+"Guidelines never conflict with one another",
+"Guidelines are completely automated by software"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "What is an example of guideline conflicts mentioned in the challenges section?",
+"options": [
+"Brand color vs. accessibility requirements",
+"Task-based vs. platform-dependent design",
+"Symbolic earcons vs. nomic door slams",
+"Trebuchet titles vs. Tahoma body text"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "Beyond volume and conflicts, what other constraints frequently challenge designers when applying guidelines?",
+"options": [
+"Time and resource constraints",
+"Excessive budgets and unlimited development time",
+"A complete lack of user groups or platforms",
+"Universal agreement across all vendor brands"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "What challenge arises when working with brand-new technologies like AR/VR interfaces?",
+"options": [
+"New technology may lack mature guidelines",
+"Technologies are too old and outdated",
+"Guidelines are overly mature and rigid",
+"All platforms already share identical standards"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "According to the pro-tip in the text, what must experienced designers successfully balance?",
+"options": [
+"Trade-offs and follow the most critical guidelines based on specific user, task, and platform",
+"Brand colors and typography standards without regard for users",
+"Only visual display layouts while ignoring aural interfaces",
+"Aural earcons and Windows XP system fonts exclusively"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "Under the characteristics of HCI guidelines, which term describes their relation to specific user populations?",
+"options": [
+"User-group focused",
+"Platform-dependent",
+"Task-based",
+"Vendor-specific"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "Which characteristic specifies that HCI guidelines depend on the hardware or software environment?",
+"options": [
+"Platform-dependent",
+"User-group focused",
+"Task-based",
+"Application-type"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "Which category of guidelines addresses contexts such as kids, the elderly, and people with disabilities?",
+"options": [
+"User Type",
+"Platform/System",
+"Vendor/Brand",
+"Interaction Style"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "In information structuring and navigation, which navigation aids are explicitly listed alongside tabs, menus, and sidebars?",
+"options": [
+"Breadcrumbs, site maps, and search features",
+"Two-panel selectors and one-window drilldowns",
+"Trebuchet and Tahoma fonts",
+"Symbolic, nomic, and metaphoric earcons"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "What is required at each stage of an e-commerce transaction according to guideline 9?",
+"options": [
+"Feedback at each stage (e.g., notifying when an item is added to cart or payment received)",
+"Flashing content to indicate status changes",
+"Keyboard-only navigation alternatives",
+"Automatic resolution standard adjustments"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "What font is explicitly designated for titles in Microsoft Windows XP interface guidelines?",
+"options": [
+"Trebuchet",
+"Tahoma",
+"Arial",
+"Verdana"
+],
+"answer": 0
+},
+    {
+      "type": "enumeration",
+      "question": "Enumerate the characteristics used to describe HCI guidelines as being more specific than general principles.",
+      "answer": [
+        "Task-based",
+        "User-group focused",
+        "Platform-dependent"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the categories used to classify guidelines to address different design contexts.",
+      "answer": [
+        "User Type",
+        "Platform/System",
+        "Vendor/Brand",
+        "Interaction Style",
+        "Task Context",
+        "Application Type"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the rules for arranging elements on the screen under Visual Display Layout.",
+      "answer": [
+        "Avoid clutter.",
+        "Use alignment and whitespace.",
+        "Highlight key content at the top or center.",
+        "Use consistent formatting."
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the navigation aids listed for structuring and navigating information.",
+      "answer": [
+        "Breadcrumbs",
+        "Tabs",
+        "Menus",
+        "Sidebars",
+        "Site maps",
+        "Search features"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the efficient and accurate input methods used to minimize typing and reduce errors.",
+      "answer": [
+        "Drop-downs",
+        "Radio buttons",
+        "Checkboxes",
+        "Auto-complete or suggested values"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the rules rooted in the Web Content Accessibility Guidelines (WCAG 2.0) framework for designing for users with disabilities.",
+      "answer": [
+        "Provide text alternatives for images.",
+        "Allow keyboard-only navigation.",
+        "Avoid flashing content to eliminate seizure risks.",
+        "Use captions for video and audio.",
+        "Make color and contrast adjustable."
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the specific guidelines for designing mobile devices to address physical and screen constraints.",
+      "answer": [
+        "Minimize typing.",
+        "Use larger touch areas that are thumb-friendly.",
+        "Optimize screen space using scrollable panels or tabs.",
+        "Keep users focused with clear paths."
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the categories of aural interfaces (earcons) based on their relationship to the user's action.",
+      "answer": [
+        "Symbolic",
+        "Nomic",
+        "Metaphoric"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the rules for designing for driving or hands-free tasks.",
+      "answer": [
+        "Use voice commands that match on-screen buttons.",
+        "Group related buttons together.",
+        "Avoid distracting visuals or complex sequential steps."
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the challenges designers encounter when applying guidelines.",
+      "answer": [
+        "Too many guidelines leading to prioritization difficulties",
+        "Guideline conflicts",
+        "Time and resource constraints",
+        "New technology lacking mature guidelines"
+      ]
+    }
+  ]
+}
